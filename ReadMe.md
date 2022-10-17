@@ -1,11 +1,11 @@
-# 🎅Happy Holidays Gift Tracker🎁
+# 📱Gucci's Tech Blog
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="Insert video link">
-    <img src= "image" alt="Logo" width="400" height="250">
+  <a href="https://github.com/Guccierrez/TechBlog">
+    <img src= ./assets/GucciTechBlog.png alt="Gucci Tech Blog" width="400" height="250">
   </a>
 
 
@@ -62,7 +62,7 @@ This webapp is for all us nerds that love to talk about tech and all things asso
 
 <!-- CONTRIBUTING -->
 ## Contributing
-Just m [Fabian Gutierrez](https://github.com/Guccierrez)
+Just me [Fabian Gutierrez](https://github.com/Guccierrez)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,15 +80,13 @@ Just m [Fabian Gutierrez](https://github.com/Guccierrez)
 
 <!-- CONTACT -->
 ## Contact
-
-Savannah Mcginnis - [sjoymcginnis@gmail.com]
-Austin Post - [posty65841@gmail.com]
 Fabian Gutierrez - [fabiangutierrez580@gmail.com]
 
 
 
 
-Project Link: [project link when done]
+* Project Link: [https://github.com/Guccierrez/TechBlog]
+* Heroku Link: [https://infinite-harbor-55585.herokuapp.com/]
 
 
 
